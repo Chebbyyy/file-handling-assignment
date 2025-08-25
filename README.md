@@ -19,8 +19,7 @@ This project is a Python assignment that demonstrates **file handling** and **ex
 
 🖥️ How to Run the Program  
 1. Clone this repository:  
-   git clone https://github.com/your-username/file-handling-assignment.git
-   cd file-handling-assignment
+   git clone https://github.com/Chebbyyy/file-handling-assignment/tree/main?tab=readme-ov-file
 Run the script:
 python file_handling_assignment.py
 Enter the name of a text file you want to read (e.g., sample.txt).
